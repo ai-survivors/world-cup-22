@@ -7,10 +7,10 @@
 ![Domain Modling](https://github.com/ai-survivors/world-cup-22/blob/main/domain_model.jpg)
 
 
-as a user i want to see all of world cup history and news in the past on a specific page .
 
+# User Stories
 
-## User Stories 1 Home page
+## User Story 1 Home page
 As a user, I want to enter the home page without having to log in, and see the latest news about the World Cup .
 
 ***Feature Tasks :*** 
@@ -25,7 +25,7 @@ As a user, I want to enter the home page without having to log in, and see the l
 Ensure that the user can See the Home page ,world cup news and the beautiful simple interface .
 
 
-## User Stories 2 matches pages
+## User Story 2 matches pages
 as user I want to see the matches schedule every day and vote for the team for every single match .
 
 ***Feature Tasks :*** 
