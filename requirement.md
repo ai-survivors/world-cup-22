@@ -1,7 +1,10 @@
 
 ## Wireframe
-
 ![wireframe_final](https://user-images.githubusercontent.com/85867431/147688929-d5092eaa-9ff5-4ed4-a1bd-6bea23700d81.jpg)
+## Db Schema
+![Db Schema](https://github.com/ai-survivors/world-cup-22/blob/main/Db_Schema.png)
+## Domain Modeling
+![Domain Modling](https://github.com/ai-survivors/world-cup-22/blob/main/domain_model.jpg)
 
 
 as a user i want to see all of world cup history and news in the past on a specific page .
