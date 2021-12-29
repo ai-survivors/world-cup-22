@@ -1,7 +1,8 @@
 # Project name :  world-cup-22
 
-## Team Name: AI SURVIVORS 
+## ![Project Requirements](https://github.com/ai-survivors/world-cup-22/blob/main/requirement.md)
 
+## Team Name: AI SURVIVORS 
 
 ## Team members:
 
