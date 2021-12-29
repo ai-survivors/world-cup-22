@@ -2,6 +2,10 @@
 
 ## [Project Requirements](https://github.com/ai-survivors/world-cup-22/blob/main/requirement.md)
 
+## [FrontEnd URL](https://github.com/ai-survivors/world_cup_22_frontend)
+## [BackEnd URL](https://github.com/ai-survivors/world-cup-22-backend)
+
+
 ## Team Name: AI SURVIVORS 
 
 ## Team members:
